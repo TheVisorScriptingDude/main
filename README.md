@@ -1,2 +1,1 @@
-# main
-main
+ALL RIGHT RESERVED
